@@ -1,0 +1,69 @@
+h2{
+				font: verdana;
+				color: white;
+}
+
+#inner-container {
+				display: flex;
+				background-color: #230c48;
+				color: white;
+			 justify-content: space-between;
+				padding-bottom: -80px;
+				z-index: 10;
+
+}
+
+#Insight {
+				color: #9c5fe3;
+}
+
+#text-box {
+				width: 50%;
+				height: 50%;
+				padding: 30px 40px 0px 40px;
+				margin: 0px;
+}
+
+#Heading {
+				font-size: 40px;
+}
+
+.Discover {
+				padding-top: 30px;
+				font-size: 18px;
+}
+
+
+#image-box {				
+				width: 50%;
+				height: 50%;
+				/*margin-bottom: -10px;*/
+				padding-bottom: 0px;
+				
+				/*background: linear-gradient (
+								rgba(#6f2eb8),
+								rgba(#6f2eb8)
+				),
+				url (Web3bridge/image-header-desktop.jpg);
+				background-repeat: no-repeat;
+  			background-size: cover;*/
+			}
+			
+#demobox {
+  background-color: #af15ff ;
+}		
+			
+.Numbers {
+				display: flex;
+				gap: 80px;
+				font-size: 30px;
+				padding-top: 50px;
+				
+}
+
+#Numbers {
+				display: flex;
+				font-size: 11px;
+				gap: 80px;
+				padding-bottom: 30px;
+}
